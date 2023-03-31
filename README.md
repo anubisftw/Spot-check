@@ -34,4 +34,5 @@ Conclusion
 
 This project demonstrates the potential of using image recognition techniques for the early detection of melanoma. By analyzing skin lesions, it is possible to identify potential cancerous growths at an early stage, increasing the chances of successful treatment. The model can be further improved with additional training data and a more complex architecture, and can be deployed on mobile devices for easy and convenient use by healthcare professionals.
 
+![Image 3-30-23 at 11 29 PM](https://user-images.githubusercontent.com/113937079/229015711-de7497b0-b739-4f68-81f7-3afbef661ccc.jpg)
 
